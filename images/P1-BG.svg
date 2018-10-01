@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="11395 141 1671 1076">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-P1-BG);
+      }
+
+      .cls-2 {
+        fill: #6aaee2;
+      }
+
+      .cls-3 {
+        fill: #ffdc00;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #487cc0;
+      }
+
+      .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #95989a;
+      }
+
+      .cls-6 {
+        font-size: 64px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-P1-BG">
+      <rect x="11395" y="141" width="1671" height="1076"/>
+    </clipPath>
+  </defs>
+  <g id="P1-BG" class="cls-1">
+    <rect class="cls-9" x="11395" y="141" width="1671" height="1076"/>
+    <g id="PAGE1" transform="translate(11395 141)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-2" width="2814" height="1069" transform="translate(1138.263 -1045.481) rotate(59)"/>
+      <path id="Path_1" data-name="Path 1" class="cls-3" d="M252.5.5c95.325,3.65,68.383,86.7,113.3,125,50.387,42.961,138.7,41.566,138.7,110.5,0,130.063-112.824,235.5-252,235.5-54.7,0-129.469-108.886-171-136.7-63.577-42.578-97-144.952-97-223.9C-15.5-19.163,157.175-3.15,252.5.5Z" transform="translate(336.306 290.771) rotate(17)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-4" width="2814" height="1069" transform="matrix(0.616, 0.788, -0.788, 0.616, 1025.722, -1096.961)"/>
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-5">
+        <rect class="cls-7" width="1671" height="1081"/>
+        <rect class="cls-8" x="0.5" y="0.5" width="1670" height="1080"/>
+      </g>
+      <text id="v" class="cls-6" transform="translate(820 1040)"><tspan x="0" y="0">v</tspan></text>
+    </g>
+  </g>
+</svg>

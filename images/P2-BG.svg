@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="13942 192 1671 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-P2-BG);
+      }
+
+      .cls-2 {
+        fill: #6aaee2;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #487cc0;
+      }
+
+      .cls-11, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 95px;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        font-size: 32px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        font-size: 64px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #ffdc00;
+      }
+
+      .cls-9 {
+        stroke: #95989a;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-P2-BG">
+      <rect x="13942" y="192" width="1671" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="P2-BG" class="cls-1">
+    <rect class="cls-11" x="13942" y="192" width="1671" height="1080"/>
+    <g id="PAGE3" transform="translate(13942 -883)">
+      <path id="Path_19" data-name="Path 19" class="cls-2" d="M-20.1-5.3,1651.134,124.872l-26.09,1015.344L-20.1,1289.5Z" transform="translate(19.866 2083)"/>
+      <path id="Path_6" data-name="Path 6" class="cls-3" d="M0-3.606l1671.234-99.235v1142L0,960.324Z" transform="translate(-0.234 2235.341)"/>
+      <g id="Group_30" data-name="Group 30" transform="translate(-57 -328)">
+        <text id="Our_Process" data-name="Our Process" class="cls-4" transform="translate(210 2904)"><tspan x="0" y="0">Our Process</tspan></text>
+        <text id="We_want_to_blasd_lasdj_and_alskdj_.alskd_jaklsdj_.as._And_the_blah._adsld_asd_asd_text._Lorem_ipsum._" data-name="We want to blasd lasdj and alskdj .alskd jaklsdj .as. And the blah. adsld asd asd text. Lorem ipsum.
+
+" class="cls-5" transform="translate(210 2951)"><tspan x="0" y="35">We want to blasd lasdj and alskdj .alskd </tspan><tspan x="0" y="72">jaklsdj .as. And the blah. adsld asd asd </tspan><tspan x="0" y="109">text. Lorem ipsum.</tspan><tspan x="0" y="146"></tspan><tspan x="0" y="183"></tspan></text>
+        <text id="We_want_to_blasd_lasdj_and_alskdj_.alskd_jaklsdj_.as._And_the_blah._adsld_asd_asd_text._Lorem_ipsum._2" data-name="We want to blasd lasdj and alskdj .alskd jaklsdj .as. And the blah. adsld asd asd text. Lorem ipsum.
+
+" class="cls-5" transform="translate(210 3107)"><tspan x="0" y="35">We want to blasd lasdj and alskdj .alskd </tspan><tspan x="0" y="72">jaklsdj .as. And the blah. adsld asd asd </tspan><tspan x="0" y="109">text. Lorem ipsum.</tspan><tspan x="0" y="146"></tspan><tspan x="0" y="183"></tspan></text>
+      </g>
+    </g>
+    <g id="PAGE2" transform="translate(13942 -883)">
+      <text id="v" class="cls-6" transform="translate(821 2070)"><tspan x="0" y="0">v</tspan></text>
+      <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-7" width="1671" height="1075" transform="translate(0 1076)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-8" cx="302" cy="302" r="302" transform="translate(-249 1869)"/>
+    </g>
+    <g id="PAGE1" transform="translate(13942 -1026)">
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-2" width="2814" height="1069" transform="translate(1138.263 -1045.481) rotate(59)"/>
+      <path id="Path_1" data-name="Path 1" class="cls-8" d="M252.5.5c95.325,3.65,68.383,86.7,113.3,125,50.387,42.961,138.7,41.566,138.7,110.5,0,130.063-112.824,235.5-252,235.5-54.7,0-129.469-108.886-171-136.7-63.577-42.578-97-144.952-97-223.9C-15.5-19.163,157.175-3.15,252.5.5Z" transform="translate(336.306 290.771) rotate(17)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-3" width="2814" height="1069" transform="matrix(0.616, 0.788, -0.788, 0.616, 1025.722, -1096.961)"/>
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-9">
+        <rect class="cls-10" width="1671" height="1081"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="1670" height="1080"/>
+      </g>
+      <text id="v-2" data-name="v" class="cls-6" transform="translate(820 1040)"><tspan x="0" y="0">v</tspan></text>
+    </g>
+    <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-7" width="1671" height="1076" transform="translate(14486 56)"/>
+  </g>
+</svg>
