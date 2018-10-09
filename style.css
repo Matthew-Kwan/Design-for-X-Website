@@ -1,16 +1,123 @@
+*{
+	/*border: 1px solid red;*/
+	padding: 0;
+	margin: 0;
+	font-family: Lato;
+}
+body{
+
+}
+
 /* CSS FOR CLASSES*/
-
+.content{
+	margin-left: 10vw;
+	margin-right: 10vw;
+	/*border: 1px solid green;*/
+}
 .section {
-
+	
+}
+.page {
+	height: 100vh;
+	width: 100vw;
 }
 
 .nav_item {
 
 }
 
+.sec_title{
+	margin-top: 25px;
+	font-weight: bold;
+	font-size: 50px;
+}
 
 /* CSS FOR ID's*/
+#p2_text{
+	flex: right;
+	line-height: 25px;
+	width:75%;
+	font-size:15pt;
+	margin-top: 30px;
+	margin-left: 20%;
+}
+#p2_title{
+	color: #363636;
+}
+#p4_title{
+	margin-top: auto;
+	padding-top:30%;
+	padding-bottom: 20px;
+	width: 80%;
+	color:#487CC0;
+	clear: both;
+	display: inline-block;
+}
+.col-right{
+	width: 49%;
+	height: 100vh;
+	display: inline-flex;
+	float: right;
 
+}
+.col-left{
+	width: 49%;
+	height: 100vh;
+	float: left;
+	display: flex;	
+	flex-direction: column; 
+	justify-content: center;
+
+}
+.checkmark{
+	margin-left: 10px;
+	background-image: url(images/check.png);
+	height:30px;
+	width:30px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+.subtitle{
+	
+	width: 50%;
+	/*display: inline-block;*/
+	font-size: 20px;
+	margin-bottom: 40%;
+}
+#p2{
+	/*background-color: yellow;*/
+
+	background-image: url(images/V3-2.png);
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
+}
+
+#p3{
+	background-image: url(images/P3.png);
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
+}
+#p4{
+	background-image: url(images/P4.png);
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
+}
+#p4_list{
+	/*float: right;*/
+	display: inline-block;
+	/*margin-left: 20%;*/
+	/*margin-top:50%;*/
+	margin-top:50%;
+	margin-left: 30%;
+	/*margin:auto;*/
+
+
+}
+#p4_list li{
+	margin-top: 18px;
+	font-size: 1.2em;
+}
 #navbar {
 
 }
@@ -28,6 +135,12 @@
 }
 
 #title_section {
+	height: 100vh;
+	width:100vh;
+
+	border: 2px solid green;
+	background-repeat: no-repeat;
+	background-size: 100vw 100vh;
 
 }
 
@@ -38,3 +151,10 @@
 #footer_text {
 
 }
+
+#balls{
+	margin-top: 18vh;
+	margin-left:0px;
+	height: 33vh;
+}
+
