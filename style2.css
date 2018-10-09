@@ -4,29 +4,27 @@
 	margin: 0;
 	font-family: Lato;
 }
+
 body{
 
 }
 
 /* CSS FOR CLASSES*/
-.content{
+.content_1{
 	margin-left: 10vw;
 	margin-right: 10vw;
 	/*border: 1px solid green;*/
 }
-.section {
+.section_1 {
 	
 }
-.page {
+.page_1 {
 	height: 100vh;
 	width: 100vw;
 }
 
-.nav_item {
 
-}
-
-.sec_title{
+.sec_title_1{
 	margin-top: 25px;
 	font-weight: bold;
 	font-size: 50px;
@@ -117,39 +115,6 @@ body{
 #p4_list li{
 	margin-top: 18px;
 	font-size: 1.2em;
-}
-#navbar {
-
-}
-
-#logo {
-
-}
-
-#link_bar {
-
-}
-
-#scrollpage {
-
-}
-
-#title_section {
-	height: 100vh;
-	width:100vh;
-
-	border: 2px solid green;
-	background-repeat: no-repeat;
-	background-size: 100vw 100vh;
-
-}
-
-#footer_section {
-
-}
-
-#footer_text {
-
 }
 
 #balls{
