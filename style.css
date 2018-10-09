@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato';
+}
+
+/* CSS FOR CLASSES*/
+.section {
+    width: 100vw;
+    height: 100vh;
+}
+.nav_item {
+}
+.content {
+    margin: 0vw;
+}
+.nav_item {
+    display: inline;
+    color: white;
+    margin-right: 5vw;
+    margin-left: 3vw;
+}
+/* CSS FOR ID's*/
+
+#nav_row {
+    width: 100vw;
+}
+#title_row {
+    padding-top: 20vh;
+}
+
+#logo_div {
+    float: left;
+    width:32%;
+    padding-left: 13vw;
+}
+#logo {
+    width: 10vw;
+}
+
+#link_bar {
+    float: left;
+    width: 53%;
+    padding-top: 5vh;
+}
+#nav_list {
+    float: right;
+    list-style-type: none;
+}
+
+#title_section {
+    background-image: url("images/P1-BG.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+#title_text {
+    font-size: 65px;
+}
+
+
+#title {
+    float: left;
+    width: 45%;
+    margin-top: 20vh;
+    margin-left: 13vw;
+}
+
+#title_section_text {
+    float: left;
+    font-size: 25px;
+    width: 35%;
+    color: white;
+    margin-top: 20vh;
+    text-align: right;
+}
+
+#learn_more {
+    margin-top: 8vh;
+    border-radius: 25px;
+    background-color: white;
+    font-size: 20px;
+    padding: 15px 32px;
+    color: #487CC0;
+    border: none;
+}
+
+#learn_more:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#what_we_do_section {
+    background-image: url("images/P3-BG.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+#our_process_div {  
+    float: left;
+    text-align: left;
+    width: 35%;
+    height: auto;
+    padding-top: 35vh;
+    padding-left: 6.5vw;
+}
+
+#process_title {
+    color: white;
+    font-size: 50px;
+}
+
+#process_text1 {
+    overflow-wrap: break-word;
+    margin-top: 2.5vh;
+    color: white;
+}
+
+#process_text2 {
+    overflow-wrap: break-word;
+    margin-top: 2.5vh;
+    color: white;
+}
+
+#process_image_div {
+    display: flex;
+    width:45%;
+    padding-top: 20vh;
+    padding-left: 3vw;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#process_img {
+    width: 30vw;
+}
+
+#wattpad_btn {
+    display: flex;
+    margin-top: 8vh;
+    border-radius: 15px;
+    background-color: white;
+    font-size: 15px;
+    color: black;
+    border: none;
+    align-items: center;
+     padding: 15px 20px;
+}
+
+#wattpad_btn_text {
+}
+
+#wattpad_logo {
+    width: 6vw;
+}
+
+#contact_us_section {
+    background-image: url("images/P5.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+#contact_title_div {
+    
+}
+
+#contact_title {
+    float:right;
+    font-size: 45px;
+    margin-right: 30vw;
+    margin-top: 30vh;
+    color:white;
+}
+
+#contact_info {
+    float:left;
+    font-size: 20px;
+    margin-left: 15vw;
+    margin-top: 50vh;
+    color:white;
+} 
