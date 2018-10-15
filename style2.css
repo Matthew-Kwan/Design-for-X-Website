@@ -41,12 +41,15 @@ body{
 }
 #p2_title{
 	color: #363636;
+	margin-top: 10vh;
+	font-size: 4em;
 }
 #p4_title{
-	margin-top: auto;
+	font-size: 4.5em;
+	margin-top: 1vh;
 	padding-top:30%;
 	padding-bottom: 20px;
-	width: 80%;
+	width: 90%;
 	color:#487CC0;
 	clear: both;
 	display: inline-block;
@@ -123,3 +126,12 @@ body{
 	height: 33vh;
 }
 
+
+#product_test_list {
+	list-style: none;
+}
+
+#product_test_list li{
+	font-size: 1.5em;
+	margin-top: 5vh;
+}

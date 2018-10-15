@@ -54,21 +54,22 @@
     background-size: 100vw 100vh;
 }
 #title_text {
-    font-size: 65px;
+    font-size: 5.5em;
+    color: #363636;
 }
 
 
 #title {
     float: left;
     width: 45%;
-    margin-top: 20vh;
+    margin-top: 17.5vh;
     margin-left: 13vw;
 }
 
 #title_section_text {
     float: left;
     font-size: 25px;
-    width: 35%;
+    width: 32%;
     color: white;
     margin-top: 20vh;
     text-align: right;
@@ -76,10 +77,10 @@
 
 #learn_more {
     margin-top: 8vh;
-    border-radius: 25px;
+    border-radius: 50px;
     background-color: white;
-    font-size: 20px;
-    padding: 15px 32px;
+    font-size: 1em;
+    padding: 20px 45px;
     color: #487CC0;
     border: none;
 }
@@ -99,24 +100,26 @@
     text-align: left;
     width: 35%;
     height: auto;
-    padding-top: 35vh;
-    padding-left: 6.5vw;
+    padding-top: 30vh;
+    padding-left: 10vw;
 }
 
 #process_title {
     color: white;
-    font-size: 50px;
+    font-size: 4em;
 }
 
 #process_text1 {
     overflow-wrap: break-word;
     margin-top: 2.5vh;
+    font-size: 1.5em;
     color: white;
 }
 
 #process_text2 {
     overflow-wrap: break-word;
     margin-top: 2.5vh;
+    font-size: 1.5em;
     color: white;
 }
 
@@ -143,14 +146,16 @@
     color: black;
     border: none;
     align-items: center;
-     padding: 15px 20px;
+    padding: 5px 20px;
 }
 
 #wattpad_btn_text {
+    font-size: 1.25em;
+    padding-left: 2.5vw ;
 }
 
 #wattpad_logo {
-    width: 6vw;
+    width: 10vw;
 }
 
 #contact_us_section {
